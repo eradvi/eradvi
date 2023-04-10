@@ -3,7 +3,9 @@
 # **Hi, I’m Evelina 👋** 
 
 - 🌱 I’m a beginner Data Analyst
-- 👀 In my profile soon you will be able to find a few of my data analysis projects
+- 📊 Some of my data analysis projects:
+  - [theLook eCommerce dataset analysis](https://github.com/eradvi/theLook-eCommerce)
+  - [Olist dataset analysis](https://github.com/eradvi/Olist)
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/evelina-radvilaite/)
 
 <!---
